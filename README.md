@@ -5,6 +5,9 @@ This backup is provided by [klipper-backup](https://github.com/Staubgeborener/kl
 
 # Hardware Upgardes
 
+### [Printed Files Thingiverse](https://www.thingiverse.com/julshg/collections/42905890/things)
+### [Printed Files Printables](https://www.printables.com/@JulsHg_262109/collections/1596246)
+
 ## Electronics
 
 BTT SKR mini E3 V2  
