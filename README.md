@@ -43,6 +43,9 @@ https://www.amazon.de/AZDelivery-LM2596S-Netzteil-Adapter-Arduino/dp/B07YWLCTLK?
 Noiseblocker 4010 12V Fans (great alternative to Noctua)  
 https://www.amazon.de/gp/product/B083DQ6ZY9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
+Raspberry Pi Pico (for use as an [ADXL Module](https://youtu.be/W_VHbT_tsZw?si=R8kCiJyco_VcEqpB))  
+https://www.amazon.de/dp/B09KVB8LVR?ref=ppx_yo2ov_dt_b_fed_asin_title
+
 ## Mechanical
 
 Dual Z Axis Kit  
@@ -102,9 +105,6 @@ https://www.amazon.de/dp/B083P8N89P?ref=ppx_yo2ov_dt_b_fed_asin_title
 
 Silicone Spacers for Hardmounting  
 https://www.amazon.de/dp/B08S6VVJ2Y?ref=ppx_yo2ov_dt_b_fed_asin_title
-
-Raspberry Pi Pico (for use as an [ADXL Module](https://youtu.be/W_VHbT_tsZw?si=R8kCiJyco_VcEqpB))  
-https://www.amazon.de/dp/B09KVB8LVR?ref=ppx_yo2ov_dt_b_fed_asin_title
 
 Angled USB Mini-B Cable  
 https://www.amazon.de/dp/B0058TW7UO?ref=ppx_yo2ov_dt_b_fed_asin_title
