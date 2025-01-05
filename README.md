@@ -19,6 +19,9 @@ https://biqu.equipment/products/btt-sfs-v1-0-smart-filament-sensor-detection-stu
 BTT Shutdown Module  
 https://biqu.equipment/products/bigtreetech-reply-v1-2-automatic-shutdown-module-after-printing?_pos=1&_sid=1e92f375c&_ss=r
 
+TH3D Lighting Kit  
+https://www.th3dstudio.com/product/ezneo220-rgb-printer-lighting-strip/
+
 BTT CB1 + Pi4B  
 https://biqu.equipment/products/pi4b-adapter-v1-0?variant=39847230242914
 
